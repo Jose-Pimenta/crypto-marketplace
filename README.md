@@ -1,6 +1,6 @@
 # Crypto Marketplace
 
-Crypto Marketplace is a responsive web application built with React and Vite that allows users to view real-time cryptocurrency market data, search for specific coins, and view detailed information and historical price charts.
+Crypto Marketplace is a responsive web application built with React and Vite that allows users to view real-time cryptocurrency market data, search for specific coins, and view detailed information and historical price charts.  
 [![Vercel](https://img.shields.io/badge/Deploy-on_Vercel-000?style=flat&logo=vercel&logoColor=white)](https://crypto-marketplace.tiagopimenta.pt)
 
 ## Features
