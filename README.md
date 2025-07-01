@@ -24,7 +24,7 @@ Crypto Marketplace is a responsive web application built with React and Vite tha
 ```
 crypto-marketplace/
 ├── public/
-│   └── index.html
+│   └── vite.svg
 ├── src/
 │   ├── assets/
 │   │   ├── logo.png
@@ -37,8 +37,7 @@ crypto-marketplace/
 │   │   │   ├── Footer.jsx
 │   │   │   └── Footer.css
 │   │   └── LineChart/
-│   │       ├── LineChart.jsx
-│   │       └── LineChart.css
+│   │       └── LineChart.jsx
 │   ├── context/
 │   │   └── CoinContext.jsx
 │   ├── pages/
@@ -52,8 +51,11 @@ crypto-marketplace/
 │   ├── main.jsx
 │   └── App.jsx
 ├── .gitignore
+├── eslint.config.js
+├── index.html
 ├── package.json
 ├── package-lock.json
+├── vercel.json
 ├── vite.config.js
 └── README.md
 ```
